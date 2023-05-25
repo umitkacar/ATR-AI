@@ -10,3 +10,5 @@
 
 
 - [A Multi-Task CNN for Maritime Target Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9349162)
+
+- [Transfer Learning on EfficientNet for Maritime Visible Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9887050)
