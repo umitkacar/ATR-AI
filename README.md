@@ -9,4 +9,4 @@
 - https://www.kaggle.com/datasets/tezdhar/marvel-maritime-vessels-classification-dataset/code
 
 
-- [A Multi-Task CNN for Maritime Target Detection](A Multi-Task CNN for Maritime Target Detection)
+- [A Multi-Task CNN for Maritime Target Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9349162)
