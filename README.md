@@ -7,3 +7,6 @@
 - [Generic and attribute-specific deep representations for maritime vessels](https://ipsjcva.springeropen.com/articles/10.1186/s41074-017-0033-4)
 
 - https://www.kaggle.com/datasets/tezdhar/marvel-maritime-vessels-classification-dataset/code
+
+
+- [A Multi-Task CNN for Maritime Target Detection](A Multi-Task CNN for Maritime Target Detection)
